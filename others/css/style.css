@@ -4,5 +4,13 @@ nav {
 .navbars {
   display: flex;
   justify-content: flex-end;
-  padding-bottom: 1px;
+  align-items: center;
+}
+h2 {
+  padding: 1px 20px;
+}
+.Title {
+  padding: 10px 10px;
+  height: 5px;
+  font-size: 50px;
 }
