@@ -1,3 +1,8 @@
 nav {
   border: 2px solid black;
 }
+.navbars {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 1px;
+}
