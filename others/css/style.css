@@ -19,3 +19,14 @@ h2 {
   padding: 10px 0px 1px 0px;
   font-family: arial;
 }
+.floatleft {
+  float: left;
+  display: inline-block;
+}
+.floatright {
+  float: right;
+  display: inline-block;
+}
+.leftpadding {
+  margin-left: 10px;
+}
