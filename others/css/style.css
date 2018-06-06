@@ -27,6 +27,6 @@ h2 {
   float: right;
   display: inline-block;
 }
-.leftpadding {
-  margin-left: 10px;
+.rightpadding {
+  margin-right: 20px;
 }
