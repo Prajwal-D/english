@@ -9,6 +9,7 @@ nav {
 }
 h2 {
   padding: 1px 18px;
+  font-size: 30px;
 }
 .title {
   padding: 10px 10px;
@@ -16,8 +17,9 @@ h2 {
   font-size: 50px;
 }
 .content {
-  padding: 10px 0px 1px 0px;
+  padding: 30px 0px 1px 0px;
   font-family: arial;
+  font-size: 18px;
 }
 .floatleft {
   float: left;
